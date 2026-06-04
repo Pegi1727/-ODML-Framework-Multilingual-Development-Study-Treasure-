@@ -37,6 +37,8 @@ markdown
 ## Supplementary Materials
 Detailed profiles of the toys involved in this study and visual evidence of the learning environment can be found in the [Appendices](./appendices/TOY_PROFILES.md) section.
 markdown
+
+markdown
 ---
 ## Visual Data Evidence
 ‌
