@@ -32,3 +32,7 @@ The data analyzed in this project spans a diverse linguistic landscape:
 - `/references`: Bibliographic data and theoretical foundations (SLA, Sociocultural Theory).
 ‌
 ---
+
+markdown
+## Supplementary Materials
+Detailed profiles of the toys involved in this study and visual evidence of the learning environment can be found in the [Appendices](./appendices/TOY_PROFILES.md) section.
