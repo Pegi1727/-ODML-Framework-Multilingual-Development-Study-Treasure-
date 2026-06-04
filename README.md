@@ -37,31 +37,13 @@ markdown
 ## Supplementary Materials
 Detailed profiles of the toys involved in this study and visual evidence of the learning environment can be found in the [Appendices](./appendices/TOY_PROFILES.md) section.
 markdown
-### Visual Data Evidence
-‌
-![Figure 1: Linguistic Gender Anchors](Appendices/Visuals/figure_1_dino_rainbow.jpg)
-*Figure 1: Dino and Rainbow acting as masculine and feminine linguistic anchors for Spanish language acquisition.*
-markdown
-## Visual Appendices: The Social Scaffold
-‌
-### Figure 1: Linguistic Gender Anchors
-![Figure 1](Appendices/Visuals/figure_1_dino_rainbow.jpg)
-markdown
-![Figure 2: Social-Spatial Mapping](Appendices/Visuals/figure_2_toy_assembly.jpg)
-*Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
-*Dino (masculine) and Rainbow (feminine) serving as morphological anchors.*
-‌
-### Figure 2: The Toy Community Assembly
-![Figure 2](Appendices/Visuals/figure_2_toy_assembly.jpg)
-*The spatial distribution of 'linguistic peers' used for social-contextual practice.*
-markdown
 ---
 ## Visual Data Evidence
 ‌
 ### Figure 1: Linguistic Gender Anchors
 ![Figure 1](Appendices/Visuals/figure_1_dino_rainbow.jpg)
-*Dino (masculine) and Rainbow (feminine) serving as morphological anchors for Spanish language acquisition.*
+*Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors for Spanish language acquisition.*
 ‌
 ### Figure 2: Social-Spatial Mapping
 ![Figure 2](Appendices/Visuals/figure_2_toy_assembly.jpg)
-*The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
+*Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
