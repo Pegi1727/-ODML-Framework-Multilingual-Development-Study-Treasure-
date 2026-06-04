@@ -1,4 +1,4 @@
-# -ODML-Framework-Multilingual-Development-Study-Treasure-
+خ# -ODML-Framework-Multilingual-Development-Study-Treasure-
 Conceptualizing Output-Driven Multilingual Learning (ODML): A qualitative case study on learner agency and production-oriented acquisition across five languages."
 # Output-Driven Multilingual Learning (ODML) Framework
 ‌
@@ -36,3 +36,8 @@ The data analyzed in this project spans a diverse linguistic landscape:
 markdown
 ## Supplementary Materials
 Detailed profiles of the toys involved in this study and visual evidence of the learning environment can be found in the [Appendices](./appendices/TOY_PROFILES.md) section.
+markdown
+### Visual Data Evidence
+‌
+![Figure 1: Linguistic Gender Anchors](Appendices/Visuals/figure_1_dino_rainbow.jpg)
+*Figure 1: Dino and Rainbow acting as masculine and feminine linguistic anchors for Spanish language acquisition.*
