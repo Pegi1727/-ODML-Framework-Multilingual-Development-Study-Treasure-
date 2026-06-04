@@ -44,11 +44,11 @@ markdown
 ## Visual Data Evidence
 ‌
 ### Figure 1: Linguistic Gender Anchors
-![Figure 1](Appendices/Visuals/IMG_20260604_100215720.jpg)
+![Figure 1](Appendices%20/Visuals/IMG_20260604_100215720.jpg)
 ‌
 *Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors for Spanish language acquisition.*
 ‌
 ### Figure 2: Social-Spatial Mapping
-![Figure 2](Appendices/Visuals/IMG_20260604_101217480.jpg)
+![Figure 2](Appendices%20/Visuals/IMG_20260604_101217480.jpg)
 ‌
 *Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
