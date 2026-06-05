@@ -52,9 +52,17 @@ markdown
 ![Figure 2](Appendices%20/Visuals/IMG_20260604_101217480.jpg)
 ‌
 *Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
-html
+environment.*
+markdown
 <p align="center">
 <img src="Appendices/Visuals/IMG_20260605_132644696.jpg" width="400">
 <br>
 <em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
 </p>
+‌
+> **Treasure**, the subject of this longitudinal case study and the namesake of the **Treasure Corpus**. Her proactive language production across five languages (English, Azerbaijani Turkish, Persian, Yoruba, and Spanish) provided the empirical foundation for the **Output-Driven Multilingual Learning (ODML)** framework.
+‌
+---
+‌
+## Abstract
+Traditional models of early multilingual development have frequently prioritized the role of comprehensible input, often characterizing the initial stages of acquisition as a passive “silent period.” This study challenges this input-dominant perspective by proposing the **Output-Driven Multilingual Learning (ODML)** framework—a conceptual model that positions the child as an active agent who leverages speech production as the primary engine for linguistic growth.
