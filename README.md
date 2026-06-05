@@ -52,11 +52,9 @@ markdown
 ![Figure 2](Appendices%20/Visuals/IMG_20260604_101217480.jpg)
 ‌
 *Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
-markdown
+html
 <p align="center">
 <img src="Appendices/Visuals/IMG_20260605_132644696.jpg" width="400">
 <br>
 <em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
 </p>
-‌
-> **Treasure**, the subject of this longitudinal case study and the namesake of the **Treasure Corpus**. Her proactive language production across five languages (English, Azerbaijani Turkish, Persian, Yoruba, and Spanish) provided the empirical foundation for the **Output-Driven Multilingual Learning (ODML)** framework.
