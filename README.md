@@ -66,3 +66,9 @@ markdown
 ‌
 ## Abstract
 Traditional models of early multilingual development have frequently prioritized the role of comprehensible input, often characterizing the initial stages of acquisition as a passive “silent period.” This study challenges this input-dominant perspective by proposing the **Output-Driven Multilingual Learning (ODML)** framework—a conceptual model that positions the child as an active agent who leverages speech production as the primary engine for linguistic growth.
+
+<p align="center">
+<img src="IMG_20260605_132644696.jpg" width="400">
+<br>
+<em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
+</p>
