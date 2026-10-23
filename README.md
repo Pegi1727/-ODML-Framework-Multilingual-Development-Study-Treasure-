@@ -79,10 +79,10 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 
 | Figure | Preview | Description |
 | :--- | :---: | :--- |
-| **Figure 6** | ![Figure 6](figures/Picture6.jpg) | **Boxplot of DFRI Variance Narrowing Across Progressive Instructional Tiers**<br>Illustrates systematic dispersion compression and convergence across proficiency tiers (Beginner $\text{SD} \approx 10$ to Advanced $\text{SD} \approx 3$). |
-| **Figure 7** | ![Figure 7](figures/Picture7.jpg) | **Longitudinal Decay Trajectory of Phonetic Dispersion ($\text{SD}$)**<br>Parametric exponential decay model $\text{SD}(t) = 0.80 \cdot e^{-0.0025t} + 0.45$ against cumulative digital media exposure hours, highlighting the empirical saturation threshold at $\approx 1,450.9\text{ h}$. |
-| **Figure 8** | ![Figure 8](figures/Picture8.jpg) | **Dual-Axis Dynamics of Acoustic Dispersion ($\text{SD}$) vs. Teacher Relief Index ($\text{TRI}$)**<br>Demonstrates the inverse pedagogical coupling between input stabilization and instructional offloading across cumulative exposure. |
-| **Figure 9** | ![Figure 9](figures/Picture9.jpg) | **Longitudinal Milestones Along the Phonetic Dispersion Trajectory**<br>Annotated milestone trajectory mapping: Baseline Onset ($0.0\text{ h}, 1.250$), Early Scaffolding ($300.0\text{ h}, 0.828$), Mid Transition ($800.0\text{ h}, 0.558$), and Saturation ($1,450.9\text{ h}, 0.471$). |
+| **Figure 6** | ![Figure 6](figures/6.jpg) | **Boxplot of DFRI Variance Narrowing Across Progressive Instructional Tiers**<br>Illustrates systematic dispersion compression and convergence across proficiency tiers (Beginner $\text{SD} \approx 10$ to Advanced $\text{SD} \approx 3$). |
+| **Figure 7** | ![Figure 7](figures/7.jpg) | **Longitudinal Decay Trajectory of Phonetic Dispersion ($\text{SD}$)**<br>Parametric exponential decay model $\text{SD}(t) = 0.80 \cdot e^{-0.0025t} + 0.45$ against cumulative digital media exposure hours, highlighting the empirical saturation threshold at $\approx 1,450.9\text{ h}$. |
+| **Figure 8** | ![Figure 8](figures/8.jpg) | **Dual-Axis Dynamics of Acoustic Dispersion ($\text{SD}$) vs. Teacher Relief Index ($\text{TRI}$)**<br>Demonstrates the inverse pedagogical coupling between input stabilization and instructional offloading across cumulative exposure. |
+| **Figure 9** | ![Figure 9](figures/9.jpg) | **Longitudinal Milestones Along the Phonetic Dispersion Trajectory**<br>Annotated milestone trajectory mapping: Baseline Onset ($0.0\text{ h}, 1.250$), Early Scaffolding ($300.0\text{ h}, 0.828$), Mid Transition ($800.0\text{ h}, 0.558$), and Saturation ($1,450.9\text{ h}, 0.471$). |
 
 ---
 
