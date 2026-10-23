@@ -78,10 +78,10 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 ![DFRI Scatter](figures/5.jpg)
 
 ### 6. Boxplot illustrating variance narrowing of DFRI across progressive instructional tiers.
-![Figure 6](figures/6.jpg)  
-![Figure 7](figures/7.jpg)  
-![Figure 8](figures/8.jpg)
-![Figure 9](figures/9.jpg)
+!![DFRI across progressive instructional tiers][Figure 6](figures/6.jpg)  
+!![DFRI across progressive instructional tiers][Figure 7](figures/7.jpg)  
+!![DFRI across progressive instructional tiers][Figure 8](figures/8.jpg)
+!![DFRI across progressive instructional tiers][Figure 9](figures/9.jpg)
 
 ---
 
