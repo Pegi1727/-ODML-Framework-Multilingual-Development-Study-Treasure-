@@ -99,6 +99,9 @@ Statistical validation confirms an exceptionally strong monotonic relationship (
 - `docs/`: Comprehensive documentation (`DATA_DICTIONARY.md`, `DATA_AVAILABILITY.md`, `CODE_AVAILABILITY.md`).
 
 ---
+📜 License
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC-BY 4.0).
+----------------------------------------
 
 ## 📖 Citation (DOI)
 If you use or reference this dataset, code, or framework in your research, please cite it via Zenodo:
