@@ -1,0 +1,32 @@
+category,term,statistic,value
+Descriptive,SD,n,500.0
+Descriptive,SD,mean,0.609411
+Descriptive,SD,std,0.197934
+Descriptive,SD,min,0.4553903575992684
+Descriptive,SD,median,0.5156688230441056
+Descriptive,SD,max,1.25
+Descriptive,TRI,n,500.0
+Descriptive,TRI,mean,3.4872876593781585
+Descriptive,TRI,std,1.136184053980092
+Descriptive,TRI,min,0.0
+Descriptive,TRI,median,4.001380941411654
+Descriptive,TRI,max,4.444751970436192
+Descriptive,DFRI,n,500.0
+Descriptive,DFRI,mean,2.5243909214921696
+Descriptive,DFRI,std,0.6520718101952993
+Descriptive,DFRI,min,0.5
+Descriptive,DFRI,median,2.817754030595531
+Descriptive,DFRI,max,3.2
+Spearman,DFRI vs TRI,rho,0.9689972272448426
+Spearman,DFRI vs TRI,p_value,1.5577334162827433e-304
+Pearson,DFRI vs TRI,r,0.997139971629899
+Pearson,DFRI vs TRI,p_value,0.0
+Saturation,SD<=0.4713,hour,1450.9018036072143
+Saturation,|dSD|<0.001,hour,837.6753507014027
+Saturation,SD<=1.01*sigma_min,hour,1755.511022044088
+Saturation,,sigma_min,0.4553903575992684
+Saturation,,sigma_min_hour,2000.0
+OLS,TRI~DFRI,slope,1.7374382968844047
+OLS,TRI~DFRI,intercept,-0.8986858039296495
+OLS,TRI~DFRI,R2,0.9942881230220741
+OLS,TRI~DFRI,std_err,0.005901032620081911
