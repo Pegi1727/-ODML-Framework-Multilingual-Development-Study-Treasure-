@@ -7,9 +7,23 @@
 ---
 
 ## 📌 Abstract / Overview
+Traditional models of early multilingual development have frequently prioritized the role of comprehensible input, often characterizing the initial stages of acquisition as a passive “silent period.” This study challenges this input-dominant perspective by proposing the **Output-Driven Multilingual Learning (ODML)** framework—a conceptual model that positions the child as an active agent who leverages speech production as the primary engine for linguistic growth.
+
 This repository contains the complete computational reconstruction, statistical analysis, and verification package for the longitudinal case study titled **"Beyond the Classroom: How Digital Media Constructs Phonetic Expectations in a Young Bilingual Child: Towards an Exploratory Model of Acoustic Anchoring and Teacher Relief"**. 
 
 The dataset and reproduction scripts reconstruct the observed longitudinal dynamics of phonetic stabilization and teacher relief based on the mathematical and statistical parameters reported in the manuscript.
+
+---
+
+## 🌟 Participant & Inspiration
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260605_132644696.jpg" width="400">
+<br>
+<em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
+</p>
+
+> **Treasure**, the subject of this longitudinal case study and the namesake of the **Treasure Corpus**. Her proactive language production across multiple languages provided the empirical foundation for the **Output-Driven Multilingual Learning (ODML)** framework.
 
 ---
 
@@ -27,17 +41,23 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 
 ---
 
-## 🖼️ Visualizations & Figures
+## 🖼️ Visual Data Evidence & Analytical Figures
 
-The key analytical figures generated from the reproduction pipeline are hosted directly in this repository:
+### 1. Linguistic Gender Anchors
+![Figure 1](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260604_100215720.jpg)  
+*Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors for language acquisition.*
 
-### 1. Exponential Decay Dynamics ($\text{SD}$ over Time)
+### 2. Social-Spatial Mapping
+![Figure 2](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260604_101217480.jpg)  
+*Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
+
+### 3. Exponential Decay Dynamics ($\text{SD}$ over Time)
 ![SD Decay](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/sd_decay.png)
 
-### 2. Teacher Relief Index Dynamics ($\text{TRI}$ over Time)
+### 4. Teacher Relief Index Dynamics ($\text{TRI}$ over Time)
 ![SD TRI Dynamics](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/sd_tri_dynamics.png)
 
-### 3. Dispersion-to-Relief Scatter & Regression Fit
+### 5. Dispersion-to-Relief Scatter & Regression Fit
 ![DFRI Scatter](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/dfri_scatter.png)
 
 ---
@@ -53,6 +73,7 @@ Statistical validation confirms an exceptionally strong monotonic relationship (
 - `code/`: Python reproduction scripts (`reproduction_script.py`, `run_all.py`).
 - `data/`: Reconstructed time-series observations, statistical summaries, and multi-tab Excel workbook (`reproduction_analysis.xlsx`).
 - `figures/`: High-resolution (300 DPI) publication-quality plots.
+- `Appendices/Visuals/`: Photographic evidence and visual datasets.
 - `docs/`: Comprehensive documentation (`DATA_DICTIONARY.md`, `DATA_AVAILABILITY.md`, `CODE_AVAILABILITY.md`).
 
 ---
@@ -68,36 +89,3 @@ If you use or reference this dataset, code, or framework in your research, pleas
   doi          = {10.5281/zenodo.20612578},
   url          = {https://doi.org/10.5281/zenodo.20612578}
 }
-
--------------------------------------------------
-
-## Visual Data Evidence
-‌
-### Figure 1: Linguistic Gender Anchors
-![Figure 1](Appendices%20/Visuals/IMG_20260604_100215720.jpg)
-‌
-*Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors for Spanish language acquisition.*
-‌
-### Figure 2: Social-Spatial Mapping
-![Figure 2](Appendices%20/Visuals/IMG_20260604_101217480.jpg)
-‌
-*Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
-environment.*
-markdown
-<p align="center">
-<img src="Appendices/Visuals/IMG_20260605_132644696.jpg" width="400">
-<br>
-<em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
-</p>
-‌
-> **Treasure**, the subject of this longitudinal case study and the namesake of the **Treasure Corpus**. Her proactive language production across five languages (English, Azerbaijani Turkish, Persian, Yoruba, and Spanish) provided the empirical foundation for the **Output-Driven Multilingual Learning (ODML)** framework.
-‌
----
-‌
-## Abstract
-Traditional models of early multilingual development have frequently prioritized the role of comprehensible input, often characterizing the initial stages of acquisition as a passive “silent period.” This study challenges this input-dominant perspective by proposing the **Output-Driven Multilingual Learning (ODML)** framework—a conceptual model that positions the child as an active agent who leverages speech production as the primary engine for linguistic growth.
-<p align="center">
-<img src="Appendices%20/Visuals/IMG_20260605_132644696.jpg" width="400">
-<br>
-<em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
-</p>
