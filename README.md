@@ -18,7 +18,7 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 ## 🌟 Participant & Inspiration
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260605_132644696.jpg" width="400">
+<img src="https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/IMG_20260605_132644696.jpg" width="400">
 <br>
 <em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
 </p>
@@ -44,11 +44,11 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 ## 🖼️ Visual Data Evidence & Analytical Figures
 
 ### 1. Linguistic Gender Anchors
-![Figure 1](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260604_100215720.jpg)  
+![Figure 1](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/IMG_20260604_100215720.jpg)  
 *Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors for language acquisition.*
 
 ### 2. Social-Spatial Mapping
-![Figure 2](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260604_101217480.jpg)  
+![Figure 2](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/IMG_20260604_101217480.jpg)  
 *Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
 
 ### 3. Exponential Decay Dynamics ($\text{SD}$ over Time)
@@ -72,8 +72,7 @@ Statistical validation confirms an exceptionally strong monotonic relationship (
 ## 📁 Repository Structure
 - `code/`: Python reproduction scripts (`reproduction_script.py`, `run_all.py`).
 - `data/`: Reconstructed time-series observations, statistical summaries, and multi-tab Excel workbook (`reproduction_analysis.xlsx`).
-- `figures/`: High-resolution (300 DPI) publication-quality plots.
-- `Appendices/Visuals/`: Photographic evidence and visual datasets.
+- `figures/`: High-resolution (300 DPI) publication-quality plots and photographic evidence.
 - `docs/`: Comprehensive documentation (`DATA_DICTIONARY.md`, `DATA_AVAILABILITY.md`, `CODE_AVAILABILITY.md`).
 
 ---
