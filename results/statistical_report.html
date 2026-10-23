@@ -1,0 +1,26 @@
+<html><head><meta charset="utf-8"><title>Statistical Report</title>
+<style>body{font-family:Georgia,serif;max-width:800px;margin:2em auto;line-height:1.5}
+table{border-collapse:collapse}td,th{border:1px solid #999;padding:4px 10px}
+h1{border-bottom:2px solid #333}code{background:#f4f4f4;padding:1px 4px}</style></head><body>
+<h1>Statistical Report — Reconstructed Study (reproduction_data.csv)</h1>
+<p>n = 500 time points (t = 0.0–2000 h)</p>
+<h2>1) Descriptive statistics</h2>
+<table>
+<tr><th>Variable</th><th>n</th><th>Mean</th><th>SD</th><th>Min</th><th>Median</th><th>Max</th></tr>
+<tr><th>SD</th><th>500</th><th>0.6094</th><th>0.1977</th><th>0.4554</th><th>0.5157</th><th>1.2500</th></tr>
+<tr><th>TRI</th><th>500</th><th>3.4873</th><th>1.1362</th><th>0.0000</th><th>4.0014</th><th>4.4448</th></tr>
+<tr><th>DFRI</th><th>500</th><th>2.5244</th><th>0.6521</th><th>0.5000</th><th>2.8178</th><th>3.2000</th></tr>
+</table>
+<h2>2) Spearman correlation (DFRI vs TRI)</h2>
+<p>rho = 0.9690, p = 1.558e-304</p>
+<h2>3) Pearson correlation (DFRI vs TRI)</h2>
+<p>r = 0.9971, p = 0.000e+00</p>
+<h2>4) Saturation-hour estimates</h2>
+<li>(a) First hour with SD ≤ 0.4713: <b>1450.9 h<b> (consistent with the 1450 h note)</li>
+<li>(b) First hour with |ΔSD| &lt; 0.001 between consecutive steps: <b>837.7 h<b> (discrete criterion)</li>
+<li>(c) First hour with SD within 1% of sigma_min: <b>1755.5 h<b> (sigma_min = 0.4554 at t = 2000 h)</li>
+<h2>5) OLS regression: TRI ~ DFRI</h2>
+<p>TRI = 1.7374·DFRI + -0.8987  (R² = 0.9943, slope SE = 0.0059, p &lt; 1e-300)</p>
+<h2>Methods</h2>
+<p>Spearman/Pearson via scipy.stats; OLS via scipy.stats.linregress; saturation hours read from the sorted time series.</p>
+</body></html>
