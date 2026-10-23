@@ -51,14 +51,36 @@ The dataset and reproduction scripts reconstruct the observed longitudinal dynam
 ![Figure 2](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/Appendices%20/Visuals/IMG_20260604_101217480.jpg)  
 *Figure 2: The complete toy assembly, representing the spatial and social organization of the participant's multilingual learning environment.*
 
+## 🖼️ Visual Data Evidence & Analytical Figures
+
+### 🌟 Participant & Inspiration
+<p align="center">
+<img src="figures/Picture1.jpg" width="400">
+<br>
+<em>Treasure, the heart and inspiration behind the ODML framework and the Treasure Corpus.</em>
+</p>
+
+### 1. Linguistic Gender Anchors
+![Figure 2](figures/Picture2.jpg)  
+*Figure 1: Dino (masculine) and Rainbow (feminine) serving as morphological anchors.*
+
+### 2. Social-Spatial Mapping
+![Figure 3](figures/Picture3.jpg)  
+*Figure 2: The complete toy assembly, representing the spatial and social organization.*
+
 ### 3. Exponential Decay Dynamics ($\text{SD}$ over Time)
-![SD Decay](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/sd_decay.png)
+![SD Decay](figures/Picture4.jpg)
 
 ### 4. Teacher Relief Index Dynamics ($\text{TRI}$ over Time)
-![SD TRI Dynamics](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/sd_tri_dynamics.png)
+![SD TRI Dynamics](figures/Picture5.jpg)
 
 ### 5. Dispersion-to-Relief Scatter & Regression Fit
-![DFRI Scatter](https://raw.githubusercontent.com/Pegi1727/-ODML-Framework-Multilingual-Development-Study-Treasure-/main/figures/dfri_scatter.png)
+![DFRI Scatter](figures/Picture6.jpg)
+
+### 6. Additional Longitudinal Visualizations
+![Figure 7](figures/Picture7.jpg)  
+![Figure 8](figures/Picture8.jpg)  
+![Figure 9](figures/Picture9.jpg)
 
 ---
 
